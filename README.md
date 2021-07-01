@@ -15,5 +15,5 @@ This repository is related to Google Coding Challenge that was given to me by  B
 - And run Command: python -m pytest
 
 # All Test Pass - Screenshot:
-![All the tests Passed!](Screenshots/gcc.png)
+![All the tests Passed!]
 

@@ -14,6 +14,4 @@ This repository is related to Google Coding Challenge that was given to me by  B
 - set CMD/terminal address to project dictionary (cd PROJECT_PATH)
 - And run Command: python -m pytest
 
-# All Test Pass - Screenshot:
-All the tests Passed
 
